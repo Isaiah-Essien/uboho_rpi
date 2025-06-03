@@ -1,0 +1,16 @@
+{
+    "cameras": {
+        "camera1": {
+            "name": "Test camera",
+            "username": "admin",
+            "password": "Isaiah123",
+            "manufacturer": "tiandy",
+            "network_settings": {
+                "ip_address": "192.168.1.139",
+                "subnet_mask": "255.255.255.0",
+                "gateway": "192.168.1.254",
+                "mac_address": "E4:E6:6C:E8:60:2A"
+            }
+        }
+    }
+}
