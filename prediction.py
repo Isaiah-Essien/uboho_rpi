@@ -34,7 +34,7 @@ import mediapipe as mp
 
 check_packages()
 
-RTSP_URL = "rtsp://admin:Isaiah123@192.168.1.139:554" # I am using this until I am able to dynamically get  the IP address of the camera from HC's script
+RTSP_URL = "rtsp://admin:Isaiah123@192.168.1.98:554" # I am using this until I am able to dynamically get  the IP address of the camera from HC's script
 WIDTH, HEIGHT = 2880, 1620
 FRAME_SIZE = WIDTH * HEIGHT * 3
 
