@@ -8,7 +8,7 @@ This project implements a real-time seizure detection system using an RTSP camer
 
 ## Relevant Links
 - [Notebook for Data prep and EDA](https://colab.research.google.com/drive/1QYHZ_VQo9THJQWKK6x_FUeq7tYCn8fC7?usp=sharing)
-- [Notebook for Final Lightweight Model]([https://colab.research.google.com/drive/1QYHZ_VQo9THJQWKK6x_FUeq7tYCn8fC7?usp=sharing](https://colab.research.google.com/drive/17U-En9VbbQxZGF3VF0IfJcvyikaMIZP1?usp=sharing)
+- [Notebook for Final Reported Model](https://colab.research.google.com/drive/17U-En9VbbQxZGF3VF0IfJcvyikaMIZP1?usp=sharing)
 - [Demo Video](https://drive.google.com/drive/folders/1u1_SWO-1Wuf-vYJglyCKBCgyUf9wSh-H?usp=sharing)
 - [Link to repo](https://github.com/Isaiah-Essien/uboho_rpi)
   
